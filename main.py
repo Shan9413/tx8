@@ -22,7 +22,7 @@ import re
 import os
 
 bot = Client("bot",
-             bot_token= "6248136008:AAFD70s4VVn04Rb6bg3fTuLFC9hdeyxrOEk",
+             bot_token= "6354068447:AAHKuKGHIuJhxxMTaA5_x8DdyJcZZoV6yJk",
              api_id= 20088962,
              api_hash= "257f47d347157555890a64b12bc0134f")
 
